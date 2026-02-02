@@ -26,7 +26,7 @@ This project consists of two specialized scripts designed for rapid market analy
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/market-tracker.git](https://github.com/yourusername/market-tracker.git)
+    git clone https://github.com/kartikeysingh6/marketVisualizer.git
     cd market-tracker
     ```
 
