@@ -35,16 +35,6 @@ This project consists of two specialized scripts designed for rapid market analy
     pip install requests pandas matplotlib
     ```
 
-3.  **Configure API Key:**
-    Get your free key from [Alpha Vantage](https://www.alphavantage.co/support/#api-key) and export it:
-    ```bash
-    # macOS/Linux
-    export ALPHA_VANTAGE_KEY="your_key_here"
-    
-    # Windows (PowerShell)
-    $env:ALPHA_VANTAGE_KEY = "your_key_here"
-    ```
-
 ## 📖 Usage Examples
 
 ### 🛢️ Crude Oil Analysis
